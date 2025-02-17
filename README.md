@@ -1,2 +1,3 @@
-# america-on-tech
-SME material for America on Tech - Intro to AI course(2025) 
+# America on Tech: Intro to AI
+
+Material created for America on Tech, as an SME for their Intro to AI course. 
